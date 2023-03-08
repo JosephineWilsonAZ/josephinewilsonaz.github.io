@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Natural Family Photography"
+title: "Natural <br>Family <br>Photography"
 layout: splash
 excerpt: "Natural Family Photography"
 header:
