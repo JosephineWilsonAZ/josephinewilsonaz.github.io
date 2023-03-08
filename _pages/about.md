@@ -2,9 +2,13 @@
 permalink: /about/
 title: "About"
 layout: splash
-excerpt: "This post should display a header with a solid background color, if the theme supports it."
+excerpt: "This post should display a header with an overlay image, if the theme supports it."
 header:
-  overlay_color: "#3F3"
+  overlay_image: /assets/images/strawberrymischief1280.jpg
+  caption: "Photo credit: [Unsplash](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 ---
 
 March 2023! Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
