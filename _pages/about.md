@@ -1,8 +1,7 @@
 ---
 permalink: /about/
-title: "Natural <br>Family <br>Photography"
+title: "Natural <br><br>Family <br><br>Photography"
 layout: splash
-excerpt: "Natural Family Photography"
 header:
   overlay_image: /assets/images/strawberrymischief1280.jpg
 ---
