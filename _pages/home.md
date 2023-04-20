@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "tktkt"
 layout: splash
 header:
   overlay_image: /assets/images/strawberrymischief1280.jpg
@@ -16,11 +17,11 @@ gallery:
 
 {% include figure image_path="/assets/images/websiteheadshot_sm.jpg" alt="Josephine's head shot" class="align-left" %}
 
-March 2023! Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Josephine Wilson, a family portrait photographer in Tucson, Arizona. I specialize in natural, relaxed photos that showcase the love and connection in your family. My goal is to create images that tell your family's story and bring out the best in each family member. Whether you prefer a formal or candid style, I work with you to create a laid-back photoshoot experience that is fun for everyone!
 
+During the photoshoot, I provide guidance and direction to help you feel at ease in front of the camera. You don't need to be a natural. I'll be there every step of the way to help you with posing and make you feel comfortable. I understand that family portraits are an investment in your memories, and I am dedicated to delivering images that you will love.
 
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My photo shoots usually last around 45 minutes. I will provide you with at least 75 high-resolution images that you can use for framed photos, photo gifts, social media and anything else. I charge $250 per session. I'm currently scheduling photo sessions for fall 2023. If you'd like more information, please drop me an email at josephine.h.wilson@gmail.com.
 <br>
 <br>
 <br>
