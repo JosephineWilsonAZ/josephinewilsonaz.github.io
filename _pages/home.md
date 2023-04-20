@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Natural <br><br>Family <br><br>Photography"
 layout: splash
 header:
   overlay_image: /assets/images/strawberrymischief1280.jpg
