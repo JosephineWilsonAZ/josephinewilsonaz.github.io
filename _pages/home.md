@@ -11,6 +11,18 @@ gallery:
     image_path: /assets/images/gallery2-th.jpg
   - url: /assets/images/gallery3.jpg
     image_path: /assets/images/gallery3-th.jpg
+  - url: /assets/images/gallery1.jpg
+    image_path: /assets/images/gallery1-th.jpg
+  - url: /assets/images/gallery2.jpg
+    image_path: /assets/images/gallery2-th.jpg
+  - url: /assets/images/gallery3.jpg
+    image_path: /assets/images/gallery3-th.jpg
+  - url: /assets/images/gallery1.jpg
+    image_path: /assets/images/gallery1-th.jpg
+  - url: /assets/images/gallery2.jpg
+    image_path: /assets/images/gallery2-th.jpg
+  - url: /assets/images/gallery3.jpg
+    image_path: /assets/images/gallery3-th.jpg
 ---
 {% include figure image_path="/assets/images/websiteheadshot_sm.jpg" alt="Josephine's head shot" class="align-left" %}
 
@@ -22,8 +34,6 @@ During the photoshoot, I provide guidance and direction to help you feel at ease
 
 My photo shoots usually last at least 45 minutes (or a different amount of time by prior arrangement). I will provide you with at least 75 high-resolution images that you can use for framed photos, photo gifts, social media and anything else. I charge $250 per session. I'm currently scheduling photo sessions for fall 2023. If you'd like more information, please drop me an email at josephine.h.wilson@gmail.com.
 
-<br>
-<br>
 <br>
 
 {% include gallery %}
