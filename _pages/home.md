@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<br>&nbsp;<br>&nbsp;<br>"
+title: "<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>"
 layout: splash
 header:
   overlay_image: /assets/images/strawberrymischief1280.jpg
@@ -12,11 +12,12 @@ gallery:
   - url: /assets/images/gallery3.jpg
     image_path: /assets/images/gallery3-th.jpg
 ---
+{% include figure image_path="/assets/images/websiteheadshot_sm.jpg" alt="Josephine's head shot" class="align-left" %}
 
 <h1>Natural Family Photography</h1>
 
 <div width="70%">
-{% include figure image_path="/assets/images/websiteheadshot_sm.jpg" alt="Josephine's head shot" class="align-left" %}
+
 
 I'm Josephine Wilson, a family portrait photographer in Tucson, Arizona. I specialize in natural, relaxed photos that showcase the love and connection in your family. My goal is to create images that tell your family's story and bring out the best in each family member. Whether you prefer a formal or candid style, I work with you to create a laid-back photoshoot experience that is fun for everyone!
 
