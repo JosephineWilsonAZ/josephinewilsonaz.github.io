@@ -23,6 +23,12 @@ gallery:
     image_path: /assets/images/gallery8-th.jpg
   - url: /assets/images/gallery9.jpg
     image_path: /assets/images/gallery9-th.jpg
+  - url: /assets/images/gallery10.jpg
+    image_path: /assets/images/gallery10-th.jpg
+  - url: /assets/images/gallery11.jpg
+    image_path: /assets/images/gallery11-th.jpg
+  - url: /assets/images/gallery12.jpg
+    image_path: /assets/images/gallery12-th.jpg
 ---
 {% include figure image_path="/assets/images/websiteheadshot_sm.jpg" alt="Josephine's head shot" class="align-left" %}
 
