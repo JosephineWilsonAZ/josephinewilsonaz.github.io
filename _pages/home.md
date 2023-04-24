@@ -11,18 +11,18 @@ gallery:
     image_path: /assets/images/gallery2-th.jpg
   - url: /assets/images/gallery3.jpg
     image_path: /assets/images/gallery3-th.jpg
-  - url: /assets/images/gallery1.jpg
-    image_path: /assets/images/gallery1-th.jpg
-  - url: /assets/images/gallery2.jpg
-    image_path: /assets/images/gallery2-th.jpg
-  - url: /assets/images/gallery3.jpg
-    image_path: /assets/images/gallery3-th.jpg
-  - url: /assets/images/gallery1.jpg
-    image_path: /assets/images/gallery1-th.jpg
-  - url: /assets/images/gallery2.jpg
-    image_path: /assets/images/gallery2-th.jpg
-  - url: /assets/images/gallery3.jpg
-    image_path: /assets/images/gallery3-th.jpg
+  - url: /assets/images/gallery4.jpg
+    image_path: /assets/images/gallery4-th.jpg
+  - url: /assets/images/gallery5.jpg
+    image_path: /assets/images/gallery5-th.jpg
+  - url: /assets/images/gallery6.jpg
+    image_path: /assets/images/gallery6-th.jpg
+  - url: /assets/images/gallery7.jpg
+    image_path: /assets/images/gallery7-th.jpg
+  - url: /assets/images/gallery8.jpg
+    image_path: /assets/images/gallery8-th.jpg
+  - url: /assets/images/gallery9.jpg
+    image_path: /assets/images/gallery9-th.jpg
 ---
 {% include figure image_path="/assets/images/websiteheadshot_sm.jpg" alt="Josephine's head shot" class="align-left" %}
 
