@@ -19,10 +19,10 @@ gallery:
     image_path: /assets/images/gallery6-th.jpg
   - url: /assets/images/gallery7.jpg
     image_path: /assets/images/gallery7-th.jpg
-  - url: /assets/images/gallery8.jpg
-    image_path: /assets/images/gallery8-th.jpg
   - url: /assets/images/gallery9.jpg
     image_path: /assets/images/gallery9-th.jpg
+  - url: /assets/images/gallery8.jpg
+    image_path: /assets/images/gallery8-th.jpg
   - url: /assets/images/gallery10.jpg
     image_path: /assets/images/gallery10-th.jpg
   - url: /assets/images/gallery11.jpg
